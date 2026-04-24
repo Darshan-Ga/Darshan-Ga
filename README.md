@@ -28,4 +28,4 @@ I’m always down to talk about security, Linux, or even gym routines. 
 - **LinkedIn:** linkedin.com/in/darshan-gaikwad-407508405
 - **Current Project:** Currently ongoing
 
-![TryHackMe Profile](https://tryhackme.com/p/Darshan.Gaikwad)] 
+![TryHackMe Profile](https://tryhackme.com/p/Darshan.Gaikwad)
