@@ -28,6 +28,6 @@ I’m always down to talk about security, Linux, or even gym routines. 
 - **LinkedIn:** linkedin.com/in/darshan-gaikwad-407508405
 - **Current Project:** Currently ongoing
 
-![GitHub](https://img.shields.io/badge/GitHub-Darshan--Ga-181717?style=for-the-badge&logo=github) ](https://github.com/Darshan-Ga)
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan_Gaikwad-0077B5?style=for-the-badge&logo=linkedin) ](https://www.linkedin.com/in/darshan-gaikwad-40750840/)
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan_Gaikwad-0077B5?style=for-the-badge&logo=linkedin) ](https://www.linkedin.com/in/darshan-gaikwad-407508405)
+
 [ ![TryHackMe](https://img.shields.io/badge/TryHackMe-Darshan.Gaikwad-212c42?style=for-the-badge&logo=tryhackme) ](https://tryhackme.com/p/Darshan.Gaikwad)
